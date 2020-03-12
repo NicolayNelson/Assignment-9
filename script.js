@@ -16,7 +16,7 @@ console.log("I would make it a full semester because its not enough time to lear
 // what you expected to learn in this course?
 
 console.log("Did you learn what you expected to learn in this course?");
-console.log("");
+console.log("I learned some of the simple things but a lot was lost on me");
 
 // 4. Write a console.log() statement that answers the following question: What concepts
 // were new to you and what concepts had you encountered already in the past?
