@@ -24,4 +24,4 @@ console.log("I learned some of the simple things but a lot was lost on me");
 console.log(
   "What concepts were new to you and what concepts had you encountered already in the past?"
 );
-console.log("");
+console.log("Everything was new to me in this because i hadnt done any coding since i was in BoyScouts years ago.");
