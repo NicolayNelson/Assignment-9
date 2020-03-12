@@ -4,7 +4,8 @@
 console.log(
   "What worked well for you over the last 9 weeks that aided in your learning process?"
 );
-console.log("");
+console.log("Going to class and getting help instead of just looking things up online helped 
+ me a lot more. The stuff online was confusing and people ");
 
 // 2. Write a console.log() statement that answers the following question: What would you
 // change about the course?
